@@ -1,0 +1,11 @@
+#tallenough {
+  display: none;
+  text-align: center;
+  color: orange;
+}
+
+#nottallenough {
+  display: none;
+  text-align: center;
+  color: purple;
+}
